@@ -6,7 +6,7 @@ LSTM-based deep learning model for predicting soil humus percentage using spatia
 
 This project uses a Long Short-Term Memory (LSTM) neural network to predict the percentage of **humus** in soil. The model considers both spatial and temporal features, as well as chemical soil composition and regional factors.
 
-# Code is here ⬇️
+### Code is here ⬇️
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AnjWh2gCGtof-eikS4EYDhP16k9zI6L1?usp=sharing)
 
 ---
